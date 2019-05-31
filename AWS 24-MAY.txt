@@ -1,0 +1,15 @@
+1.Elastic Cache usecase
+
+Memcached-support multi threading
+
+2.WHAT REDIS SUPPOPRT?
+
+3.Nat Gateway-fully managed by AWS
+
+4.Nat instance
+
+5.NACL(stateless(allow for in-bound and out-bound traffic)
+
+6.Diff b/w NACL and security group 
+
+7.VPC
